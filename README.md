@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaoralph6
+- 👋 Hi, I’m Yao
 - 👀 I’m interested in RELINK
 - 🌱 I’m currently learning JS and ASP.NET
 - 💞️ I’m looking to collaborate on ASP.NET god help my code its dogshit
